@@ -1,0 +1,362 @@
+me
+==
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+#Layer1 {
+	position:absolute;
+	left:14px;
+	top:-6px;
+	width:1342px;
+	height:15px;
+	z-index:1;
+	background-color: #FF9900;
+}
+#Layer2 {
+	position:absolute;
+	left:265px;
+	top:195px;
+	width:781px;
+	height:242px;
+	z-index:2;
+}
+#Layer3 {
+	position:absolute;
+	left:243px;
+	top:86px;
+	width:127px;
+	height:84px;
+	z-index:3;
+}
+#Layer4 {
+	position:absolute;
+	left:127px;
+	top:566px;
+	width:304px;
+	height:211px;
+	z-index:4;
+}
+#Layer5 {
+	position:absolute;
+	left:172px;
+	top:84px;
+	width:147px;
+	height:96px;
+	z-index:2;
+}
+#Layer6 {
+	position:absolute;
+	left:174px;
+	top:199px;
+	width:1053px;
+	height:217px;
+	z-index:3;
+}
+#Layer7 {
+	position:absolute;
+	left:121px;
+	top:516px;
+	width:393px;
+	height:758px;
+	z-index:4;
+}
+#Layer8 {
+	position:absolute;
+	left:115px;
+	top:516px;
+	width:341px;
+	height:259px;
+	z-index:4;
+}
+#Layer9 {
+	position:absolute;
+	left:124px;
+	top:669px;
+	width:335px;
+	height:249px;
+	z-index:4;
+}
+#Layer10 {
+	position:absolute;
+	left:197px;
+	top:78px;
+	width:151px;
+	height:100px;
+	z-index:2;
+}
+#Layer11 {
+	position:absolute;
+	left:196px;
+	top:193px;
+	width:994px;
+	height:274px;
+	z-index:3;
+}
+#Layer12 {
+	position:absolute;
+	left:194px;
+	top:491px;
+	width:438px;
+	height:270px;
+	z-index:4;
+}
+#Layer13 {
+	position:absolute;
+	left:207px;
+	top:567px;
+	width:403px;
+	height:261px;
+	z-index:4;
+}
+#Layer14 {
+	position:absolute;
+	left:151px;
+	top:90px;
+	width:156px;
+	height:103px;
+	z-index:2;
+}
+#Layer15 {
+	position:absolute;
+	left:268px;
+	top:122px;
+	width:160px;
+	height:89px;
+	z-index:2;
+}
+#Layer16 {
+	position:absolute;
+	left:270px;
+	top:241px;
+	width:982px;
+	height:253px;
+	z-index:3;
+}
+#Layer17 {
+	position:absolute;
+	left:79px;
+	top:529px;
+	width:381px;
+	height:233px;
+	z-index:4;
+}
+#Layer18 {
+	position:absolute;
+	left:1082px;
+	top:117px;
+	width:342px;
+	height:680px;
+	z-index:5;
+}
+#Layer19 {
+	position:absolute;
+	left:893px;
+	top:59px;
+	width:274px;
+	height:130px;
+	z-index:2;
+}
+#Layer20 {
+	position:absolute;
+	left:111px;
+	top:67px;
+	width:123px;
+	height:80px;
+	z-index:3;
+}
+#Layer21 {
+	position:absolute;
+	left:76px;
+	top:158px;
+	width:768px;
+	height:232px;
+	z-index:4;
+	-moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;
+
+}
+#Layer22 {
+	position:absolute;
+	left:924px;
+	top:206px;
+	width:412px;
+	height:258px;
+	z-index:5;
+}
+#Layer23 {
+	position:absolute;
+	left:337px;
+	top:57px;
+	width:505px;
+	height:34px;
+	z-index:5;
+}
+#Layer24 {
+	position:absolute;
+	left:432px;
+	top:56px;
+	width:436px;
+	height:30px;
+	z-index:5;
+}
+.style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #FF9900;
+}
+#Layer25 {
+	position:absolute;
+	left:894px;
+	top:206px;
+	width:379px;
+	height:211px;
+	z-index:6;
+}
+#Layer26 {
+	position:absolute;
+	left:645px;
+	top:17px;
+	width:680px;
+	height:23px;
+	z-index:7;
+	background-color: #FF9900;
+}
+#Layer27 {
+	position:absolute;
+	left:721px;
+	top:18px;
+	width:635px;
+	height:21px;
+	z-index:7;
+	background-color: #FF9900;
+}
+#Layer28 {
+	position:absolute;
+	left:14px;
+	top:630px;
+	width:1342px;
+	height:4px;
+	z-index:8;
+	background-color: #FF9900;
+}
+#Layer29 {
+	position:absolute;
+	left:746px;
+	top:18px;
+	width:610px;
+	height:28px;
+	z-index:9;
+	background-color: #FF9900;
+}
+.style7 {
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-weight: bold;
+}
+#Layer30 {
+	position:absolute;
+	left:731px;
+	top:20px;
+	width:624px;
+	height:24px;
+	z-index:9;
+	background-color: #FF9900;
+}
+#Layer31 {
+	position:absolute;
+	left:365px;
+	top:101px;
+	width:77px;
+	height:28px;
+	z-index:10;
+}
+#Layer32 {
+	position:absolute;
+	left:361px;
+	top:95px;
+	width:102px;
+	height:39px;
+	z-index:10;
+}
+#Layer33 {
+	position:absolute;
+	left:363px;
+	top:95px;
+	width:87px;
+	height:35px;
+	z-index:10;
+}
+#Layer34 {
+	position:absolute;
+	left:355px;
+	top:91px;
+	width:86px;
+	height:33px;
+	z-index:10;
+}
+-->
+</style>
+</head>
+
+<body>
+<div id="Layer34"><div class="fb-like" data-href="https://www.facebook.com/#!/r.d.forming" data-width="420" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div></div>
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+FB.init({appId: 'YOUR APP ID', status: true, cookie: true,
+xfbml: true});
+};
+(function() {
+var e = document.createElement('script'); e.async = true;
+e.src = document.location.protocol +
+'//connect.facebook.net/en_US/all.js';
+document.getElementById('fb-root').appendChild(e);
+}());
+</script><div id="Layer1"></div>
+<div id="Layer19"><img src="join.jpg" width="392" height="129" /></div>
+<div id="Layer20"><img src="logo_461032_web.jpg" width="200" height="81" /></div>
+<div id="Layer21"><img src="agri.jpg" width="771" height="234" /></div>
+<div id="Layer24">
+  <h1><span class="style2"> <blink>Welcome TO R.D.Foming</blink> </span></h1>
+</div>
+<div id="Layer25">
+  <blockquote> <span class="style7">Looking for partner or financer for the project of R.D.Foming.The project containts 5acers of land out of 21acers located at Dhule...(km) away from mumbai and (km) from nashik.We are interested to plant poultary farming,pig farming and goat farming in this project. </span></blockquote>
+</div>
+<div id="Layer28"></div>
+<div id="Layer30">
+  <table width="624">
+    <tr>
+      <th scope="col"><a href="home.php">Home</a></th>
+      <th scope="col"><a href="aboutus.php">About Us</a> </th>
+      <th scope="col">Investor</th>
+      <th scope="col"><a href="Registration.php">Registration</a></th>
+      <th scope="col"><a href="contactus.php">Contact Us </a></th>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="1346" height="480">
+  <tr>
+    <td height="163">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="39">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="268" bgcolor="#FF9900"><marquee>&nbsp;&nbsp;<img src="pick.jpg" width="235" height="173" />&nbsp;&nbsp; <img src="flogs.jpg" width="256" height="173" />&nbsp;&nbsp;<img src="eg.jpg" width="266" height="170" />&nbsp;&nbsp;<img src="goats.jpg" width="238" height="167" />
+        <img src="gai.jpg" width="271" height="172" />
+    </marquee>    </td>
+  </tr>
+</table>
+
+</body>
+</html>
